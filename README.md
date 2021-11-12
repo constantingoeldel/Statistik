@@ -1,6 +1,6 @@
 # Statistik
 
-Hier ist ein Repository (Speicher für Dateien) in das ich den Code für die Statistikaufgaben in R hochlade und so allen zur Verfügung stellen kann. 
+Hier ist ein Repository (Speicher für Dateien) in das ich den Code für die Statistikaufgaben in R hochlade. Wenn ihr irgendwelche Fragen zum Code habt, fragt mich gerne.
 
 [Link zur Aufgabe zu den Bivariaten Daten](/BivariateDaten.html)
 
